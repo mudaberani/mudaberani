@@ -1,5 +1,7 @@
 # Platform Mudaberani.id
 
+Mudaberani.id is a non-profit organization established by **Generasi Muda Berani Berkarya**
+
 ## 📖 About
 
 Mudaberani.id is a non-profit organization dedicated to helping communities in Indonesia grow and develop. We focus on empowering individuals and promoting sustainable development to create a better future for all.
